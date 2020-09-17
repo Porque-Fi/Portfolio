@@ -5,10 +5,6 @@
     <link>https://porque-fi.github.io/Portfolio/categories/</link>
     <description>Recent content in Categories on Seungkwon Choi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://porque-fi.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://porque-fi.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
