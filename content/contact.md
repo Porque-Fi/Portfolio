@@ -7,9 +7,10 @@ type: page
 menu: main
 
 ---
-hi there
+Seungkwon's contact details
 
-Platform|URL
+|
 ---|---
-Youtube:| https://www.youtube.com/watch?v=mEZ1Hj5yQ-8
-Linkedin:| https://www.youtube.com/watch?v=mEZ1Hj5yQ-8
+email:| kach7100@gmail.com
+mobile:| +82 010 3906 3304
+github:| https://github.com/Porque-Fi

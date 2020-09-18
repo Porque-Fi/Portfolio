@@ -1,8 +1,9 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+description: "Hi! My name is Seungkwon Choi. I've graduate from a college in Japan.   //
+Now I'm looking for a job in data/software."
+featured_image: '/images/skate.jpg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/Portfolio/images/Kakao.jpg" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+I had been exposed to a global environment for about a decade and because of this, I started learning new cultures and languages. I speak 5 languages in total. Now I've decided to go one step further and dive into the world of programming. I've finished Big Data specialist training course. Throughout this course, I learnt Python, SQL, Java, R and had a project using sentiment analysis and Natural Language Processing.
